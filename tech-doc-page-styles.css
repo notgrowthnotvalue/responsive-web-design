@@ -1,0 +1,29 @@
+.main-section {
+
+    color: red;
+
+}
+
+
+
+@media (min-width: 480px) {
+
+    body {
+
+        background-color: lightgreen;
+
+    }
+
+}
+
+
+
+@media (min-width: 1px) {
+
+    body {
+
+        background-color: blue;
+
+    }
+
+}
